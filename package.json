@@ -1,5 +1,6 @@
 {
   "name": "silvic-initiative",
+  "description": "Synchronous Identification of Lights, Vessels and Intentional Constructs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
